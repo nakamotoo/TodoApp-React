@@ -1,0 +1,20 @@
+{
+  "todoTexts": [
+    {
+      "text": "勉強",
+      "id": 1,
+      "checked": true
+    },
+    {
+      "text": "睡眠",
+      "id": 2,
+      "checked": false
+    }
+  ],
+  "itemCount": [
+    {
+      "count": 1,
+      "id": 1
+    }
+  ]
+}
