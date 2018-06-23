@@ -1,0 +1,4 @@
+{
+  "presets": ["react-app", "es2016"],
+  "plugins": ["transform-class-properties"]
+}

@@ -1,0 +1,45 @@
+body{
+  background:#f5f5f5;
+}
+.container{
+  margin:0 auto;
+  text-align:center;
+}
+.container> input#textInput{
+  width:550px;
+  height:50px;
+  font-size: 24px;
+  padding:12px 12px 12px 48px;
+}
+.container ul{
+  list-style: none;
+}
+.container #lists li{
+  padding:6px 0;
+  margin:0 auto;
+  width:550px;
+  font-size:28px;
+  text-align:left;
+  user-select:none;
+}
+.container li>input{
+  display:inline;
+  width:15px;
+  height:15px;
+  vertical-align: middle;
+}
+#links{
+  font-size:16px;
+}
+#links li{
+  display:inline-block;
+  padding:10px 10px;
+}
+.container ul#lists li a{
+  float:right;
+  font-size:15px;
+  cursor:pointer;
+}
+#links{
+  display:inline-block;
+}
